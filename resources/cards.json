@@ -4,7 +4,8 @@
 	"command": "git init",
         "description": {
 	    "en_EN": "Drag this card into the empty space above to initialize the time machine!",
-	    "it_IT": "Trascina questa carta nell'area vuota sopra per inizializzare la macchina del tempo"
+	    "it_IT": "Trascina questa carta nell'area vuota sopra per inizializzare la macchina del tempo",
+	    "lmo_IT": "Moeuv in sgir quella carta chi in l'area voeuda sora per fà partì la machina del temp"
 	}
     },
     {
@@ -12,7 +13,8 @@
         "command": "git clone ../[remote] .",
         "description": {
 	    "en_EN": "Create your own copy of someone else's repo.",
-	    "it_IT": "Crea la tua copia personale del Repo di qualcun'altro."
+	    "it_IT": "Crea la tua copia personale del Repo di qualcun'altro.",
+	    "lmo_IT": "Fà la toa cobia personal del repo de 'n quajvun."
 	}
     },
     {
@@ -20,7 +22,8 @@
         "command": "git config --global user.name [string]",
         "description": {
 	    "en_EN": "Set your name.\n\n(Will not change anything outside of this game.)",
-	    "it_IT": "Imposta il tuo nome.\n\n(Non cambierà nulla all'infuori del gioco.)"
+	    "it_IT": "Imposta il tuo nome.\n\n(Non cambierà nulla all'infuori del gioco.)",
+	    "lmo_IT": "Cata foeura el to nom.\n\n(El cambiarà nagot foeura del sgioeugh.)"
 	}
     },
     {
@@ -28,7 +31,8 @@
         "command": "git config --global user.email [string]",
         "description": {
 	    "en_EN": "Set your email address.",
-	    "it_IT": "Imposta la tua e-mail."
+	    "it_IT": "Imposta la tua e-mail.",
+	    "lmo_IT":"Met denter la toa adressa e-mail."
 	}
     },
     {
@@ -36,7 +40,8 @@
         "command": "git checkout [commit, ref]",
         "description": {
 	    "en_EN": "Drag this card to a commit or to a branch to travel to it!",
-	    "it_IT": "Trascina questa carta su un commit o su un branch per spostarti su di esso."
+	    "it_IT": "Trascina questa carta su un commit o su un branch per spostarti su di esso.",
+	    "lmo_IT": "Moeuv in sgir quella carta chi in su 'n commit o in su 'n branch per andàgh dent!"
 	}
     },
     {
